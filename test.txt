@@ -11,3 +11,4 @@
 我会写 HelloWord！ 了
 我会写 HelloWord！ 了
 修改了 全局的 name 与email 测试   by ItLeLe01
+我现在是本项目的name 我叫闫Sir 我在操作你的笔记本 by 闫Sir
